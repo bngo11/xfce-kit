@@ -1,0 +1,6 @@
+dev-python/thunarx-python python_single_target_python3_10 python_targets_python3_10
+dev-util/catfish python_single_target_python3_10 python_targets_python3_10
+xfce-base/xfce4-settings python_single_target_python3_10 python_targets_python3_10
+xfce-extra/thunar-dropbox python_single_target_python3_10 python_targets_python3_10
+xfce-extra/xfce4-panel-profiles python_single_target_python3_10 python_targets_python3_10
+xfce-extra/xfce4-windowck-plugin python_single_target_python3_10 python_targets_python3_10
